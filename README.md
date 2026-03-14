@@ -121,6 +121,6 @@ Amazon EC2 – Virtual compute instance
 
 ## Author
 
-Pranavi Jeedigunta  
+Rahimunisa Begum 
 Northeastern University  
 MLOps Lab
